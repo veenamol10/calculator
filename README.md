@@ -30,4 +30,4 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 
 - Feel free to suggest any improvements by creating an issue.
 
-- You can also work on an already open issue and pull request when finished, so I can review the changes and eventually merge them to the base branch.
+- You can also work on an already open issue and pull request when finished, so I can review the changes and eventually merge them to the base branch. 
